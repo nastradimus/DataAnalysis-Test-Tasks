@@ -1,2 +1,2 @@
-# da_tests
-[Test_tusks] Data Analyst
+## Тестовые задания по анализу данных
+
