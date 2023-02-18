@@ -1,2 +1,2 @@
 ## Тестовые задания по анализу данных
- SQL Python Excel Tableau
+**Software stack:** SQL, Python, Excel, Tableau
